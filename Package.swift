@@ -31,7 +31,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/SwiftyBeaver/SwiftyBeaver", from: "1.9.0"),
-        .package(url: "https://github.com/0xBF90E913/openssl-apple.git", from: "3.2.110")
+        .package(url: "https://gitee.com/WanlanNeel/openssl-apple-privacy.git", branch: "develop")
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
