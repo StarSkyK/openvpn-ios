@@ -3,10 +3,10 @@
     {
       "identity" : "openssl-apple",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/0xBF90E913/openssl-apple.git",
+      "location" : "https://github.com/StarSkyK/openssl-apple.git",
       "state" : {
-        "revision" : "ba67936700c9a8d3621aaac28d9fca463183fd8a",
-        "version" : "3.2.110"
+        "branch" : "master",
+        "revision" : "1f37ce987ce25379b91fa498da9d1090580efb6f"
       }
     },
     {
